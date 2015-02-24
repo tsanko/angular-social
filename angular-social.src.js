@@ -134,8 +134,8 @@ app.directive('ngSocialFacebook', function() {
 			}
 		},
 		popup: {
-			url: 'http://www.facebook.com/sharer/sharer.php?u={url}',
-			//url: 'http://www.facebook.com/dialog/feed?app_id={appId}&display=popup&caption={title}&link={url}&picture={image}&redirect_uri=https://www.facebook.com',
+			//url: 'http://www.facebook.com/sharer/sharer.php?u={url}',
+			url: 'http://www.facebook.com/dialog/feed?app_id={appId}&display=popup&caption={title}&link={url}&picture={image}&redirect_uri=https://www.facebook.com',
 			//url: 'http://www.facebook.com/dialog/share?app_id={appId}&display=popup&href={url}&redirect_uri=https://www.facebook.com',
 			width: 600,
 			height: 500
