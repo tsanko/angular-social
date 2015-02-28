@@ -1,6 +1,6 @@
 {
   "name": "angular-social",
-  "version": "0.1.2-TT",
+  "version": "0.1.6-TT",
   "main": [
   	"angular-social.js",
   	"angular-social.css"
